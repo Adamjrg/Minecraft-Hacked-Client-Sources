@@ -1,6 +1,6 @@
 # Minecraft Hacked Client Sources
 
-## Amount of clients: 39
+## Amount of clients: 38
 
 ## List of clients:
 
@@ -27,7 +27,6 @@
 * Jello 0.1
 * Jigsaw 0.24
 * Lucid 0.89
-* Memeware 
 * Mystra
 * Nivia B3
 * Old MoonX
