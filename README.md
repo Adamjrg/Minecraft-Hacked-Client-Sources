@@ -1,4 +1,4 @@
-# Minecraft Hacked Client Sources LEAK
+# Minecraft Hacked Client Sources
 
 $$ cedo owns me and all $$
 
@@ -45,6 +45,6 @@ $$ cedo owns me and all $$
 * WeepCraft 0.2
 * Xatz 0.9b1
 
-## If you have any client's source, feel free to dm me, my discord is chocopie#7690
+## If you have any client's source, feel free to dm me, my discord is chocopie#5634
 
 ## Happy Skidding!
