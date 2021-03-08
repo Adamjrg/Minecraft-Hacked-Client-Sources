@@ -1,7 +1,5 @@
 # Minecraft Hacked Client Sources
 
-$$ cedo owns me and all $$
-
 ## Amount of clients: 38
 
 ## List of clients:
